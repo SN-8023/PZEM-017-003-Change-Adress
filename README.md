@@ -47,7 +47,7 @@ Die PZEM unterstützen folgene Funktions Codes:
  0x03(3)   Lesen der Konfigurations Register  
  0x04(4)   Lesen der Messwert Register
  0x06(6)   Schreiben der Konfigurations Register 
- 0x41(65)  Kallibierung (nur über Adresse 0xF8 nutzbar) 
+ 0x41(65)  Kallibierung (nur über Adresse 0xF8 (248) nutzbar) 
  0x42(66)  Reset Verbrauchszähler
 
 Die Adresse kann zwischen 
